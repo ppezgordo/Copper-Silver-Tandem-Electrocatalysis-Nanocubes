@@ -21,7 +21,7 @@ This repository contains the data, code, and supporting materials associated wit
 - **`data/`**: Raw data and processed results used in the analysis. This includes:
   - **XRD Data**: Files with the raw XRD patterns and processed data.
   - **Electrochemical Data**: Data from the electrochemical impedance spectroscopy (EIS) and other related measurements.
-  - *Example*: `xrd_raw_data.csv`, `eis_results.csv`, `processed_williamson_hall.csv`.
+  - *Example*: 'DEMS1.xlsx','EIS_OCP1.xlsx',etc.
  
 ### 4. Python Code for XRD Analysis
 - **`xrd_analysis.py`**: The Python script used for X-ray diffraction pattern analysis, including baseline subtraction, application of the Scherrer formula, and calculation of dislocation density, strain, crystallite size, and full width at half maximum (FWHM) using the Williamson-Hall plot.
