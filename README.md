@@ -40,7 +40,8 @@ If you use the code, data, or any other material from this repository, please ci
 > DOI: [Link to be added when available]
 
 ## DOI
-This repository has been assigned a DOI via Zenodo: [DOI link to be added when available].
+[![DOI](https://zenodo.org/badge/808812933.svg)](https://zenodo.org/doi/10.5281/zenodo.13627608)
+
 
 ## Contact
 For questions or further information, please contact the corresponding author: misaacs@uc.cl
